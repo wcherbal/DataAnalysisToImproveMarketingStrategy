@@ -1,5 +1,7 @@
 # **ShopEasy KPI Analysis and Objectives**
-![Demo](PBIDesktop_EzNNmCTvAT)
+<p align="center">
+   <img src="assets/PBIDesktop_EzNNmCTvAT.gif" width="800">
+</p>
 
 ## **Introduction**
 ShopEasy, an e-commerce company, is facing a decline in customer engagement and conversion rates despite multiple marketing campaigns. The goal of this analysis is to identify limiting factors and optimize marketing strategies based on key performance indicators (KPIs).
