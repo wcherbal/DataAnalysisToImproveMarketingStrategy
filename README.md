@@ -4,43 +4,36 @@
 </p>
 
 ## **Introduction**
-ShopEasy, an e-commerce company, is facing a decline in customer engagement and conversion rates despite multiple marketing campaigns. The goal of this analysis is to identify limiting factors and optimize marketing strategies based on key performance indicators (KPIs).
+An e-commerce company, is facing a decline in customer engagement and conversion rates despite multiple marketing campaigns. The goal of this analysis is to identify limiting factors and optimize marketing strategies based on key performance indicators (KPIs).
 
-## **Key KPIs and Their Importance**
+## **📊 Key KPIs and objectives**
 
-### **1. Conversion Rate**
-- **Definition**: Percentage of website visitors who complete a purchase.
-- **Importance**: A primary indicator of marketing campaign profitability and customer journey effectiveness.
+### **➡️ Increase Conversion Rate :** 
+Determine the percentage of website visitors who complete a purchase.
 - **Objective**: Identify friction points in the conversion funnel and propose improvements.
+- **Analyse**: Optimize user journey, improve product pages, simplify checkout process.
 
-### **2. Customer Engagement Rate**
-- **Definition**: Level of user interaction with marketing content (clicks, likes, comments).
-- **Importance**: Helps evaluate the attractiveness and relevance of campaigns.
+### **➡️ Enhance Customer Engagement Rate :**
+Determine the level of user interaction with marketing content (clicks, likes, comments).
 - **Objective**: Identify the type of content that generates the most interactions and optimize it.
+- **Analyse**: Adapt content strategy, test new formats (videos, influencers, etc.).
 
-### **3. Average Order Value (AOV)**
-- **Definition**: The average amount spent by a customer per transaction.
-- **Importance**: Measures customer profitability and the impact of pricing and cross-selling strategies.
+### **➡️ Average Order Value (AOV)**
+Determine the average amount spent by a customer per transaction.
 - **Objective**: Implement strategies to increase cart value.
 
-### **4. Customer Satisfaction Score**
-- **Definition**: Average rating of customer reviews on products and services.
-- **Importance**: Reveals customer perception and user experience.
+### **➡️ Improve  Customer Satisfaction Score**
+Determine the average rating of customer reviews on products and services.
 - **Objective**: Identify strengths and weaknesses in customer feedback to enhance offerings.
+- **Analyse**: Address recurring complaints, improve product and service quality.
 
-## **Objectives and Improvement Strategies**
+## 📈**Results and actions to improvement strategies**
 
-1. **Increase Conversion Rate**
-   - **Analysis**: Identify drop-off points in the purchase funnel.
-   - **Actions**: Optimize user journey, improve product pages, simplify checkout process.
 
-2. **Enhance Customer Engagement**
-   - **Analysis**: Determine the most engaging formats and channels.
-   - **Actions**: Adapt content strategy, test new formats (videos, influencers, etc.).
+## 🧠 Skills Developed in the Project
 
-3. **Improve Customer Satisfaction**
-   - **Analysis**: Study customer reviews and feedback trends.
-   - **Actions**: Address recurring complaints, improve product and service quality.
-
-## **Conclusion**
-Analyzing KPIs will help adapt ShopEasy's marketing strategy by implementing targeted actions to enhance customer experience and maximize campaign profitability.
+- **Business Analysis & KPI Definition**
+- **SQL**: Data Management (extraction, manipulation, optimization)
+- **Power Query**: Data Cleaning and Transformation
+- **Power BI**: Interactive Dashboards and Visuals Creation
+- **Python** (NLTK, TextBlob): Sentiment Analysis from Customer Feedback
