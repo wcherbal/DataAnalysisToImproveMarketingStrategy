@@ -1,4 +1,3 @@
-# DataAnalysisToImproveMarketingStrategy
 # **ShopEasy KPI Analysis and Objectives**
 
 ## **Introduction**
